@@ -26,3 +26,7 @@ ex) Directory structure should be ...
   - Set runtime (use same runtime with AWS Lambda function)
 
 6. Go to your AWS Lambda function console and add this AWS Layer. That's it.
+
+
+ps.
+another library I made that I can import it by '/opt/nodejs/YOUR_FILE_NAME'. Extension can be removed if JS file.
