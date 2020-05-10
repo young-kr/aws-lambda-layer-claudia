@@ -21,7 +21,6 @@ ex) Directory structure should be ...
             - package-lock.json
 
 5. Create AWS Layers
-
   - Set name
   - Select zip file to upload
   - Set runtime (use same runtime with AWS Lambda function)
